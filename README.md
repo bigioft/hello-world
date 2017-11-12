@@ -1,2 +1,3 @@
 # hello-world
-Let's get started!
+
+Branching seems very useful!
